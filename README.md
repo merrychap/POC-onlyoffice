@@ -1,5 +1,7 @@
 ### ONLYOFFICE
 
+ONLYOFFICE Document Server is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
+
 Website: https://www.onlyoffice.com/
 
 Github: https://github.com/ONLYOFFICE/
@@ -7,7 +9,6 @@ Github: https://github.com/ONLYOFFICE/
 Document Server CORE - https://github.com/ONLYOFFICE/core
 
 Document Server SERVER - https://github.com/ONLYOFFICE/server
-
 
 CVE ID | Score | Description
 -------|-------|-------------
